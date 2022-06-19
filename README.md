@@ -20,3 +20,11 @@ Objective -
 1. As a Security/Defence analyst, try to find out the hot zone of terrorist
 
 2. What all Security issues and insights you can derive by EDA ?
+
+**Task 4 - Perform 'Exploratory Data Analysis (EDA)' on dataset 'Indian Premier League'**
+
+Objective -
+
+1. As a Sports Analyst, find out the most successful teams, player and factors contribution win or loss of a team
+
+2. Suggest teams or players a company should endorse for its products
